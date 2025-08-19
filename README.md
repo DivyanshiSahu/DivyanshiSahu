@@ -14,7 +14,6 @@ Application Developer @Accenture | Data Engineering | Databricks | Cloud (Azure/
 💼 Currently working at **Accenture** as an **Application Developer**, where I design and build **scalable data engineering solutions** using **Databricks, Python, SQL, and Azure**.  
 
 🌱 My journey spans **data engineering, AI/ML, and cloud computing**, with hands-on experience in building ETL pipelines, optimizing workflows, and developing data-driven applications.  
-🚀 I’ve also explored **AI-powered projects** like *EmoHealer* (a therapy chatbot) and *Scannify* (an Android app for seamless QR/Barcode scanning).  
 
 💡 I believe in continuous learning, problem-solving, and using technology to create impactful solutions.  
 
