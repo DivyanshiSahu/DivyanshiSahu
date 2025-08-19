@@ -1,6 +1,6 @@
 <!--**DivyanshiSahu19/DivyanshiSahu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Header](./assets/banner.png)
+![Header](./assets/banner_updated.png)
 
 # Hi there 👋, I'm Divyanshi Sahu
 
