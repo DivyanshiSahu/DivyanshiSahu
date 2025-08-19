@@ -6,7 +6,6 @@
 
 Application Developer @Accenture | Data Engineering | Databricks | Cloud (Azure/AWS) | AI & ML Enthusiast  
 
----
 
 ## About Me
 
@@ -17,7 +16,6 @@ Application Developer @Accenture | Data Engineering | Databricks | Cloud (Azure/
 
 💡 I believe in continuous learning, problem-solving, and using technology to create impactful solutions.  
 
----
 
 ## 🛠 Tech Stack
 
@@ -49,14 +47,35 @@ As a **Data Engineer & AI Enthusiast**, my toolbox includes:
 
 </div>
 
----
 
-## 🚀 Projects
+## 💼 Experience
 
-🔹 **Deloitte Virtual Internship** – Unified multiple data models & built a telemetry data dashboard.  
-🔹 **Datacom Virtual Internship** – Improved application reliability through bug fixing & code review.  
+**Application Developer – Accenture** _(May 2025 – Present)_  
+- Designed and developed **scalable data solutions** on the **Databricks Unified Data Analytics Platform**.  
+- Built and optimized **ETL pipelines** for seamless data integration and transformation.  
+- Collaborated with cross-functional teams to integrate applications into existing data workflows.  
+- Contributed to **application debugging, optimization, and performance improvements**.  
+- Applied **Agile & DevOps principles** throughout the development lifecycle.  
+- **Tech Stack:** Databricks, Python, SQL, Azure, AWS, Git, ETL Tools  
 
----
+**Associate Software Engineer – Accenture** _(Sep 2024 – May 2025)_  
+- Worked with **Azure Databricks, PySpark, SQL, and Unix** to deliver enterprise data engineering solutions.  
+- Gained hands-on experience with **cloud platforms (Azure, AWS)**.  
+- Strengthened problem-solving skills in **data science and scalable application development**.  
+
+**Data Engineer Intern – Arthrex** _(Jun 2024 – Aug 2024)_  
+- Supported data engineering workflows and data transformation tasks.  
+- Worked on designing **scalable, reliable data pipelines**.  
+
+**Software Development Virtual Experience – Datacom** _(Jun 2023 – Jul 2023)_  
+- Reviewed web application code and suggested improvements.  
+- Identified and fixed bugs to improve application reliability.  
+
+**Technology Virtual Experience (STEM) – Deloitte** _(May 2023 – Jun 2023)_  
+- Unified multiple data models by developing efficient algorithms.  
+- Built a **dashboard for telemetry data analysis**.  
+- Identified vulnerabilities and assisted in a **cybersecurity investigation**.  
+
 
 ## 📊 GitHub Stats
 
@@ -68,7 +87,6 @@ As a **Data Engineer & AI Enthusiast**, my toolbox includes:
 
 </div>
 
----
 
 ## 📫 Let's Connect
 
